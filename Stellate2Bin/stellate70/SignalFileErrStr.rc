@@ -1,0 +1,104 @@
+//Microsoft Developer Studio generated resource script.
+//
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 1 resource.
+//
+#include <winres.h>
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "SignalFileErrStr.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include <winres.h>\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""SignalFileErrStr.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+	IDS_SIGNALFILE_ERROR_FAIL	"General failure.$$20mnmnmnmm30mnmnmnmm40mnmW"
+	IDS_SIGNALFILE_ERROR_FILENOTOPEN	"No signal file currently open.$$mnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80mnW"
+	IDS_SIGNALFILE_ERROR_FILEALREADYOPEN	"Signal file already open.$$m30mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmmW"
+	IDS_SIGNALFILE_ERROR_FILEDOESNTEXIST	"Signal file doesn't exist.$$30mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mW"
+	IDS_SIGNALFILE_ERROR_FILEALREADYEXISTS	"Signal file already exists.$$0mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnW"
+	IDS_SIGNALFILE_ERROR_FILEINVALID	"Signal file invalid.$$mnmnmm30mnmnmnmm40mnmnmnmm50mnmnW"
+	IDS_SIGNALFILE_ERROR_FILEACCESSFAIL	"Failure accessing signal file.$$mnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80mnW"
+	IDS_SIGNALFILE_ERROR_FILECREATEFAIL	"Failure creating signal file.$$nmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80W"
+	IDS_SIGNALFILE_ERROR_FILEOPENFAIL	"Failure opening signal file.$$mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmW"
+	IDS_SIGNALFILE_ERROR_FILECLOSEFAIL	"Failure closing signal file.$$mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmW"
+	IDS_SIGNALFILE_ERROR_FILEPOSITIONFAIL	"Failure positioning file pointer.$$nmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80mnmnW"
+	IDS_SIGNALFILE_ERROR_FILEREADFAIL	"Failure reading from signal file.$$nmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80mnmnW"
+	IDS_SIGNALFILE_ERROR_FILEWRITEFAIL	"Failure writing to signal file.$$nmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm8W"
+	IDS_SIGNALFILE_ERROR_FILEFLUSHFAIL	"Failure flushing signal file.$$nmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80W"
+	IDS_SIGNALFILE_ERROR_FILECOPYFAIL	"Failure copying signal file.$$mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmW"
+	IDS_SIGNALFILE_ERROR_FILERENAMEFAIL	"Failure renaming signal file.$$nmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80W"
+	IDS_SIGNALFILE_ERROR_FILEDELETEFAIL	"Failure deleting signal file.$$nmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80W"
+	IDS_SIGNALFILE_ERROR_OBJECTINVALID	"Object is invalid.$$mnmnmnmm30mnmnmnmm40mnmnmnmm5W"
+	IDS_SIGNALFILE_ERROR_OBJECTREADONLY	"Object is read-only.$$mnmnmm30mnmnmnmm40mnmnmnmm50mnmnW"
+	IDS_SIGNALFILE_ERROR_OBJECTCHANGEFAIL	"Direct object change is not allowed. Use appropriate methods in IsignalInfo$$mnmnmnmnmnmnmnmnmnmnmnmnnmnmnmW"
+	IDS_SIGNALFILE_ERROR_SUBOBJECTCREATEFAIL	"Failure creating sub-object.$$mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmW"
+	IDS_SIGNALFILE_ERROR_SUBOBJECTINITFAIL	"Failure initializing sub-object.$$mnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmm80mnW"
+	IDS_SIGNALFILE_ERROR_SUBOBJECTRESETFAIL	"Failure reseting sub-object.$$mnmnmnmm40mnmnmnmm50mnmnmnmm60mnmnmnmm70mnmnmnmW"
+	IDS_SIGNALFILE_ERROR_SUBOBJECTINVALID	"Sub-object(s) invalid.$$mnmm30mnmnmnmm40mnmnmnmm50mnmnmnmm60W"
+END
+
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
